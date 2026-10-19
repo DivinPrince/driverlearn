@@ -1,0 +1,261 @@
+@import 'tailwindcss';
+@import '@fontsource-variable/nunito';
+@import '@fontsource-variable/outfit';
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+  Design tokens. Palette is inspired by the Rwandan flag: sky blue (brand),
+  sun yellow (accent / XP) and green (success). Semantic tokens switch with
+  the `.dark` class on <html>.
+*/
+@theme {
+  --font-sans: 'Nunito Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-display: 'Outfit Variable', 'Nunito Variable', ui-sans-serif, system-ui, sans-serif;
+
+  --color-brand-50: #eef8fe;
+  --color-brand-100: #d7eefc;
+  --color-brand-200: #b4e0f9;
+  --color-brand-300: #7fcbf4;
+  --color-brand-400: #3fb0ec;
+  --color-brand-500: #1597dc;
+  --color-brand-600: #0b7dc1;
+  --color-brand-700: #0a649c;
+  --color-brand-800: #0d5481;
+  --color-brand-900: #10466b;
+  --color-brand-950: #0b2d47;
+
+  --color-sun-50: #fffbe6;
+  --color-sun-100: #fff6c2;
+  --color-sun-200: #ffec85;
+  --color-sun-300: #ffdd3d;
+  --color-sun-400: #fad201;
+  --color-sun-500: #e0b400;
+  --color-sun-600: #b88a00;
+  --color-sun-700: #8a6700;
+
+  --color-leaf-50: #f0fdf4;
+  --color-leaf-100: #dcfce7;
+  --color-leaf-200: #bbf7d0;
+  --color-leaf-300: #6ee598;
+  --color-leaf-400: #3fcf6e;
+  --color-leaf-500: #1fb455;
+  --color-leaf-600: #169443;
+  --color-leaf-700: #157538;
+
+  --color-flame-50: #fff5f5;
+  --color-flame-100: #ffe4e4;
+  --color-flame-200: #fecaca;
+  --color-flame-300: #fca5a5;
+  --color-flame-400: #f87171;
+  --color-flame-500: #ef4444;
+  --color-flame-600: #dc2626;
+  --color-flame-700: #b91c1c;
+
+  --color-grape-100: #efe7ff;
+  --color-grape-200: #d9c8ff;
+  --color-grape-300: #bea2ff;
+  --color-grape-400: #a27bff;
+  --color-grape-500: #8b5cf6;
+  --color-grape-600: #7440e0;
+  --color-grape-700: #5b2fc0;
+
+  --radius-4xl: 2rem;
+
+  --animate-pop: pop 320ms cubic-bezier(0.2, 0.9, 0.3, 1.4);
+  --animate-shake: shake 420ms ease-in-out;
+  --animate-rise: rise 360ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
+  --animate-float: float 4s ease-in-out infinite;
+  --animate-shine: shine 2.4s linear infinite;
+
+  @keyframes pop {
+    0% { transform: scale(0.85); opacity: 0; }
+    60% { transform: scale(1.05); opacity: 1; }
+    100% { transform: scale(1); }
+  }
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20% { transform: translateX(-6px); }
+    40% { transform: translateX(6px); }
+    60% { transform: translateX(-4px); }
+    80% { transform: translateX(4px); }
+  }
+  @keyframes rise {
+    from { transform: translateY(10px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+  }
+  @keyframes shine {
+    from { background-position: -200% 0; }
+    to { background-position: 200% 0; }
+  }
+}
+
+:root {
+  --bg: #f4f8fb;
+  --surface: #ffffff;
+  --surface-2: #eef3f7;
+  --surface-3: #e2eaf0;
+  --ink: #12263a;
+  --ink-muted: #5b6f82;
+  --ink-faint: #8fa1b2;
+  --line: #dbe4ec;
+  --line-strong: #c4d1dc;
+  --shadow-color: 210 40% 30%;
+  color-scheme: light;
+}
+
+.dark {
+  --bg: #0b1724;
+  --surface: #12212f;
+  --surface-2: #182b3c;
+  --surface-3: #21384c;
+  --ink: #e8f1f8;
+  --ink-muted: #9db2c4;
+  --ink-faint: #6c8295;
+  --line: #22384a;
+  --line-strong: #2e4a60;
+  --shadow-color: 210 60% 2%;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-ink-faint: var(--ink-faint);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-bg text-ink font-sans antialiased;
+    min-height: 100dvh;
+  }
+  h1, h2, h3, h4 {
+    @apply font-display tracking-tight;
+  }
+  :focus-visible {
+    outline: 3px solid var(--color-brand-400);
+    outline-offset: 2px;
+  }
+  button {
+    cursor: pointer;
+  }
+  button:disabled {
+    cursor: not-allowed;
+  }
+}
+
+@layer components {
+  /* Surfaces */
+  .card {
+    @apply rounded-3xl border border-line bg-surface;
+    box-shadow: 0 1px 2px hsl(var(--shadow-color) / 0.06), 0 4px 16px -6px hsl(var(--shadow-color) / 0.12);
+  }
+  .card-flat {
+    @apply rounded-3xl border border-line bg-surface;
+  }
+
+  /*
+    Chunky "3D" buttons: a solid bottom edge that collapses on press.
+    Variants: .btn-primary .btn-success .btn-danger .btn-sun .btn-ghost .btn-soft
+  */
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-2xl px-5 py-3 font-display font-semibold
+      text-base select-none transition-[transform,box-shadow,background-color,filter] duration-100;
+    --edge: var(--line-strong);
+    box-shadow: 0 4px 0 var(--edge);
+    transform: translateY(0);
+  }
+  .btn:active:not(:disabled) {
+    transform: translateY(3px);
+    box-shadow: 0 1px 0 var(--edge);
+  }
+  .btn:disabled {
+    @apply opacity-50;
+  }
+  .btn-primary {
+    @apply bg-brand-500 text-white hover:bg-brand-400;
+    --edge: var(--color-brand-700);
+  }
+  .btn-success {
+    @apply bg-leaf-500 text-white hover:bg-leaf-400;
+    --edge: var(--color-leaf-700);
+  }
+  .btn-danger {
+    @apply bg-flame-500 text-white hover:bg-flame-400;
+    --edge: var(--color-flame-700);
+  }
+  .btn-sun {
+    @apply bg-sun-400 text-brand-950 hover:bg-sun-300;
+    --edge: var(--color-sun-600);
+  }
+  .btn-soft {
+    @apply border-2 border-line bg-surface text-ink hover:bg-surface-2;
+    --edge: var(--line-strong);
+  }
+  .btn-ghost {
+    @apply bg-transparent text-ink-muted shadow-none hover:bg-surface-2 hover:text-ink;
+    box-shadow: none;
+  }
+  .btn-ghost:active:not(:disabled) {
+    box-shadow: none;
+  }
+  .btn-sm {
+    @apply rounded-xl px-3 py-2 text-sm;
+  }
+  .btn-lg {
+    @apply px-6 py-4 text-lg;
+  }
+  .btn-icon {
+    @apply aspect-square p-2.5;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-1.5 rounded-full bg-surface-2 px-3 py-1 text-xs font-bold text-ink-muted;
+  }
+
+  .eyebrow {
+    @apply text-xs font-extrabold uppercase tracking-[0.12em] text-ink-faint;
+  }
+
+  .input {
+    @apply w-full rounded-2xl border-2 border-line bg-surface px-4 py-3 text-ink placeholder:text-ink-faint
+      focus:border-brand-400 focus:outline-none;
+  }
+
+  /* Animated striped bar used for progress indicators */
+  .bar {
+    @apply relative h-3 overflow-hidden rounded-full bg-surface-3;
+  }
+  .bar > span {
+    @apply absolute inset-y-0 left-0 rounded-full transition-[width] duration-500 ease-out;
+  }
+
+  .road-stripes {
+    background-image: repeating-linear-gradient(90deg, var(--color-sun-400) 0 18px, transparent 18px 34px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+    scroll-behavior: auto !important;
+  }
+}

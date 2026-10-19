@@ -1,0 +1,1295 @@
+{
+  "dropped": [
+    {
+      "id": 146,
+      "duplicateOf": 9
+    },
+    {
+      "id": 148,
+      "duplicateOf": 12
+    },
+    {
+      "id": 150,
+      "duplicateOf": 14
+    },
+    {
+      "id": 154,
+      "duplicateOf": 19
+    },
+    {
+      "id": 182,
+      "duplicateOf": 181
+    },
+    {
+      "id": 349,
+      "duplicateOf": 335
+    }
+  ],
+  "flags": {
+    "3": {
+      "src": 3,
+      "flags": [
+        "Source stem appears to omit 'ukomeje' (continuous) after 'ahegereye umurongo'; Kinyarwanda kept as printed, English renders the intended meaning."
+      ]
+    },
+    "8": {
+      "src": 8,
+      "flags": [
+        "Removed stray trailing colon from option a."
+      ]
+    },
+    "12": {
+      "src": 12,
+      "flags": [
+        "Stem wording in the source is confusing (it presupposes the driver may use the pedestrian path); kept as printed."
+      ]
+    },
+    "18": {
+      "src": 18,
+      "flags": [
+        "Fixed spacing 'kubyerekeye' -> 'ku byerekeye' in stem."
+      ]
+    },
+    "21": {
+      "src": 21,
+      "flags": [
+        "Source spells 'amyasa' (flashing, normally 'amyatsa'); kept as printed."
+      ]
+    },
+    "22": {
+      "src": 22,
+      "flags": [
+        "Fixed spacing 'metero50'/'metero100' in options b and c."
+      ]
+    },
+    "23": {
+      "src": 23,
+      "flags": [
+        "Official key (50 m) looks doubtful: faster vehicles would be expected to need a horn audible from further away (e.g. 100 m); official answer kept."
+      ]
+    },
+    "24": {
+      "src": 24,
+      "flags": [
+        "Fixed spacing 'naza' -> 'na za' and 'kubinyabiziga' -> 'ku binyabiziga' in stem."
+      ]
+    },
+    "25": {
+      "src": 25,
+      "flags": [
+        "Option a (bicycles and mopeds) overlaps with c; the official key uses the general term 'ibinyamitende' (cycles)."
+      ]
+    },
+    "26": {
+      "src": 26,
+      "flags": [
+        "Option c is printed over two lines in the PDF; joined."
+      ]
+    },
+    "27": {
+      "src": 27,
+      "flags": [
+        "Source stem literally reads 'When there are no other seats, it is forbidden...'; English renders the intended rule ('unless no other seats are available').",
+        "Fixed spacing 'Ntagisubizo' in option d."
+      ]
+    },
+    "31": {
+      "src": 31,
+      "flags": [
+        "Fixed spacing 'by’ ukuri' in option d."
+      ]
+    },
+    "34": {
+      "src": 34,
+      "flags": [
+        "Fixed spacing 'kuburebure' -> 'ku burebure' in stem."
+      ]
+    },
+    "37": {
+      "src": 37,
+      "flags": [
+        "Option a wording 'kuri cm 50 z’umuhanda' is unclear in the source; translated literally."
+      ]
+    },
+    "44": {
+      "src": 44,
+      "flags": [
+        "Key may be doubtful: if the regulation allows a white or yellow lamp at the front carried on the left, option a would be correct; official answer kept.",
+        "Fixed spacing 'kuburyo' -> 'ku buryo' in stem."
+      ]
+    },
+    "45": {
+      "src": 45,
+      "flags": [
+        "Fixed spacing 'n’ inkengero' -> 'n’inkengero' in stem."
+      ]
+    },
+    "48": {
+      "src": 48,
+      "flags": [
+        "A 2.10 m width threshold usually relates to width (clearance) lamps; the source names 'ndangaburumbarare' (side-marker lamps); kept as printed."
+      ]
+    },
+    "49": {
+      "src": 49,
+      "flags": [
+        "Stem contains a double negative in the source ('kitaba kiri hasi'); English renders the intended meaning (not lower than)."
+      ]
+    },
+    "50": {
+      "src": 50,
+      "flags": [
+        "Fixed spacing 'ikinyabizigamo kabiri' -> 'ikinyabiziga mo kabiri' in stem."
+      ]
+    },
+    "53": {
+      "src": 52,
+      "flags": [
+        "PDF prints the number 52 twice (src 52 is repeated for ids 52 and 53); src kept as printed."
+      ]
+    },
+    "54": {
+      "src": 53,
+      "flags": [
+        "Rule confirmed by src 209 elsewhere in the bank, whose keyed answer is 'inyuma hafi y’impera y’ibumoso bw’ikinyabiziga'."
+      ]
+    },
+    "59": {
+      "src": 58,
+      "flags": [
+        "Key consistent with src 109 elsewhere in the bank (white, yellow or orange lamp at the rear of the trailer)."
+      ]
+    },
+    "62": {
+      "src": 61,
+      "flags": [
+        "The 3 m / 25 km exception is taken from src 119 elsewhere in the bank."
+      ]
+    },
+    "63": {
+      "src": 62,
+      "flags": [
+        "Key consistent with src 199 (same question, 12 t) elsewhere in the bank; the 16 t contrast comes from src 38."
+      ]
+    },
+    "68": {
+      "src": 67,
+      "flags": [
+        "Key consistent with src 125 elsewhere in the bank (same stem; options moped, motorcycle with sidecar, bicycle; keyed 'none'), which confirms that mopeds do not qualify. The earlier doubt about the moped option is withdrawn."
+      ]
+    },
+    "69": {
+      "src": 68,
+      "flags": [
+        "75 m figure taken from src 126 elsewhere in the bank (keyed answer m75)."
+      ]
+    },
+    "75": {
+      "src": 74,
+      "flags": [
+        "Option c in the source ('inyuma kandi y’impera y’ibumoso bw’ikinyabiziga') is garbled and reads almost like the keyed position, so the question is somewhat ambiguous. Key a matches src 188 elsewhere in the bank (same stem; keyed 'ahegereye inguni y’ibumoso y’ikinyabiziga', while 'ku gice cy’inyuma' alone was not accepted). Official key a kept.",
+        "Source spelling 'ahagereye' (for 'ahegereye') kept as printed."
+      ]
+    },
+    "77": {
+      "src": 76,
+      "flags": [
+        "Stem spacing fixed: 'y’i kinyabiziga' -> 'y’ikinyabiziga'."
+      ]
+    },
+    "78": {
+      "src": 77,
+      "flags": [
+        "Cross-check: src 23 elsewhere in the bank keys 50 m for vehicles whose unladen speed can exceed 50 km/h, which conflicts with this key (100 m). Official key kept here."
+      ]
+    },
+    "80": {
+      "src": 79,
+      "flags": [
+        "Option a: missing apostrophe fixed ('ibyibara' -> 'iby’ibara')."
+      ]
+    },
+    "82": {
+      "src": 96,
+      "flags": [
+        "PDF prints this question as number 96 (out of sequence between 80 and 81); src kept as printed."
+      ]
+    },
+    "95": {
+      "src": 93,
+      "flags": [
+        "Key cannot be cross-checked within the bank; information/bus-stop signs are commonly blue, so the 'none' key is doubtful. Official key kept."
+      ]
+    },
+    "98": {
+      "src": 96,
+      "flags": [
+        "The PDF uses the number 96 twice (here and for id 82, which is out of sequence); src kept as printed."
+      ]
+    },
+    "99": {
+      "src": 97,
+      "flags": [
+        "Option b spacing fixed: 'cyangwaumuhondo' -> 'cyangwa umuhondo'.",
+        "Doubtful key: option a (white or orange light at the front) matches the rule the bank accepts for animal-drawn vehicles and animals (src 91: front white, yellow or orange), so a may be the intended answer. Official key d kept."
+      ]
+    },
+    "103": {
+      "src": 101,
+      "flags": [
+        "Stem phrase 'cy’abantu benshi bagendera ku nyamaswa' (lit. 'many people travelling on animals') appears to be a literal rendering of 'caravan'; English gives 'caravan site' with the literal meaning in brackets."
+      ]
+    },
+    "104": {
+      "src": 102,
+      "flags": [
+        "Removed stray space in 'y’ Umuhanda'. Source spells 'urombeje' (for 'urombereje'); kept as printed."
+      ]
+    },
+    "109": {
+      "src": 107,
+      "flags": [
+        "Source spells 'cyidahoraho' (for 'kidahoraho'); kept as printed."
+      ]
+    },
+    "111": {
+      "src": 109,
+      "flags": [
+        "Stem clause 'uretse velomoteri idafite umuyobozi' is unclear in the source; translated literally.",
+        "Key matches src 58 (white, yellow or amber light at the rear), but a white rear light is unusual, since rear lamps are normally red; key kept."
+      ]
+    },
+    "116": {
+      "src": 114,
+      "flags": [
+        "Source uses the abbreviation 'kdi' (kandi); kept as printed."
+      ]
+    },
+    "117": {
+      "src": 115,
+      "flags": [
+        "Option c is printed 'utarengeje 150' without a unit in the source; translated as 150 m."
+      ]
+    },
+    "121": {
+      "src": 119,
+      "flags": [
+        "Option c printed as '(c)m3' at the bottom of p.26; option d continues on p.27."
+      ]
+    },
+    "125": {
+      "src": 123,
+      "flags": [
+        "Consistent with src 175 (id 145), whose key is 8 days."
+      ]
+    },
+    "127": {
+      "src": 125,
+      "flags": [
+        "Explanation based on src 67 (id 68), whose key is 'motorcycle without a sidecar'."
+      ]
+    },
+    "130": {
+      "src": 128,
+      "flags": [
+        "Explanation based on src 89 (id 91): stopping and parking allowed there except on motorways and motor roads."
+      ]
+    },
+    "131": {
+      "src": 130,
+      "flags": [
+        "PDF numbering skips 129 (src 128 is followed by src 130).",
+        "Doubtful key: the usual exception for a chain touching the ground is for vehicles carrying flammable goods (anti-static chain); option b says 'cannot catch fire'. Official answer a kept."
+      ]
+    },
+    "132": {
+      "src": 131,
+      "flags": [
+        "Rear limit of 3.50 m taken from src 59 (id 60)."
+      ]
+    },
+    "137": {
+      "src": 136,
+      "flags": [
+        "Source spells 'kerekana' (for 'cyerekana'); kept as printed."
+      ]
+    },
+    "140": {
+      "src": 139,
+      "flags": [
+        "Limits taken from src 59 (rear 3.50 m) and src 131 (front 2.70 m)."
+      ]
+    },
+    "141": {
+      "src": 171,
+      "flags": [
+        "PDF numbering jumps from 139 (p.30) to 171 (p.31).",
+        "Source stem says 'uburebure' (length) but the options are in tonnes; it means 'uburemere' (weight). rw kept as printed, translated as weight."
+      ]
+    },
+    "147": {
+      "src": 179,
+      "flags": [
+        "Source stem says 'uburebure' (length) but the options are in tonnes; it means 'uburemere' (weight), as in src 10. rw kept as printed, translated as weight."
+      ]
+    },
+    "149": {
+      "src": 182,
+      "flags": [
+        "Option d is printed in green on p.33, not red; only option c is red."
+      ]
+    },
+    "150": {
+      "src": 183,
+      "flags": [
+        "Doubtful key: option a describes the situation that src 110 (id 112) treats as a correct case for switching off main beams, so a is arguably also correct. Official answer b kept (same key as src 17)."
+      ]
+    },
+    "154": {
+      "src": 188,
+      "flags": [
+        "Source prints option D in green (not red, not bold); the meaning of the green marking is not explained. Kept the red option as the official answer."
+      ]
+    },
+    "155": {
+      "src": 189,
+      "flags": [
+        "Source prints option D in green (not red, not bold); the meaning of the green marking is not explained. Kept the red option as the official answer."
+      ]
+    },
+    "156": {
+      "src": 190,
+      "flags": [
+        "Expanded the source abbreviation “kdi” to “kandi” in the stem and option A."
+      ]
+    },
+    "159": {
+      "src": 193,
+      "flags": [
+        "Fixed missing space in option D (“gisubizocy’ukuri”)."
+      ]
+    },
+    "161": {
+      "src": 195,
+      "flags": [
+        "Added a full stop between the two sentences of the stem; fixed “ibyibara” -> “iby’ibara” in option A."
+      ]
+    },
+    "162": {
+      "src": 196,
+      "flags": [
+        "Blue background in the explanation is taken from the key of companion question src 34 in the same bank."
+      ]
+    },
+    "163": {
+      "src": 197,
+      "flags": [
+        "The required distance is not stated anywhere in the source, so the explanation does not give a figure."
+      ]
+    },
+    "165": {
+      "src": 199,
+      "flags": [
+        "Spacing fix: “kuyindi” -> “ku yindi”.",
+        "12 t seems low as the gross weight of a whole three-axle combination; the source may mean an axle-group load. Key kept; it matches companion question src 62 in the same bank."
+      ]
+    },
+    "166": {
+      "src": 200,
+      "flags": [
+        "Spacing fix: “kuyindi” -> “ku yindi”. “mukuzungu” kept as printed (= makuzungu).",
+        "16 t in the explanation is taken from the key of companion question src 38 in the same bank."
+      ]
+    },
+    "167": {
+      "src": 201,
+      "flags": [
+        "Spacing fix in option D: “km20” -> “km 20”.",
+        "Same stem as src 202 (id 172) with different options; both keys are consistent with a 25 km/h limit."
+      ]
+    },
+    "168": {
+      "src": 202,
+      "flags": [
+        "Same stem as src 201 (id 171), whose key gives 25 km/h."
+      ]
+    },
+    "169": {
+      "src": 203,
+      "flags": [
+        "Point about continuous lines comes from companion question src 43 in the same bank."
+      ]
+    },
+    "170": {
+      "src": 204,
+      "flags": [
+        "Fixed “ryumutuku” -> “ry’umutuku” in option B.",
+        "White front light in the explanation is taken from the key of companion question src 72 in the same bank."
+      ]
+    },
+    "172": {
+      "src": 206,
+      "flags": [
+        "Added missing colon at the end of the stem.",
+        "2.10 m in the explanation is taken from the key of companion question src 48 in the same bank.",
+        "Options A (3 m) and B (2.50 m) are wider than the 2.10 m threshold, so a learner may argue such vehicles also need the lamps; the key assumes the question asks for the threshold figure itself."
+      ]
+    },
+    "173": {
+      "src": 207,
+      "flags": [
+        "40 cm and the fog/reversing-lamp exemption are taken from companion questions src 49 and src 75 in the same bank."
+      ]
+    },
+    "174": {
+      "src": 208,
+      "flags": [
+        "1.90 m in the explanation is taken from the key of companion question src 51 in the same bank."
+      ]
+    },
+    "176": {
+      "src": 210,
+      "flags": [
+        "The 1.25 m comparison is taken from companion question src 55 in the same bank."
+      ]
+    },
+    "177": {
+      "src": 211,
+      "flags": [
+        "Fixed option D “B na c ni ibisubizo byukuri” -> “B na C ni ibisubizo by’ukuri”.",
+        "Key doubtful: option D (“B and C are correct”) is arguable, since simply not answering (B) is also safe. Kept official C.",
+        "Exact duplicate of src 212 (id 182)."
+      ]
+    },
+    "179": {
+      "src": 214,
+      "flags": [
+        "“ikona” (corner) is used for a bend.",
+        "Key doubtful: this resembles a UK theory question whose expected answer is “approaching a dip in the road” (here option D, a road that is not level), with “just after a bend” as a distractor. Kept official A."
+      ]
+    },
+    "180": {
+      "src": 214,
+      "flags": [
+        "Source prints src 214 twice (also id 184).",
+        "Stem image shows an amber arrow pointing left (filter arrow), not a full amber disc.",
+        "Stem ended with a full stop; changed to a question mark."
+      ]
+    },
+    "181": {
+      "src": 215,
+      "flags": [
+        "Spacing fix after the comma in the stem.",
+        "“romoruki” here appears to mean a large vehicle towing a trailer."
+      ]
+    },
+    "182": {
+      "src": 216,
+      "flags": [
+        "Fixed punctuation/spacing in the stem (“umuhanda.ukingirijwe nimodoka ihagaze.niki”)."
+      ]
+    },
+    "183": {
+      "src": 217,
+      "flags": [
+        "Fixed punctuation in the stem and spacing in option D (“Ntagisubizo”)."
+      ]
+    },
+    "184": {
+      "src": 218,
+      "flags": [
+        "Fixed missing apostrophes in option C (“nabandi bayobozi bibinyabiziga”)."
+      ]
+    },
+    "186": {
+      "src": 220,
+      "flags": [
+        "Source prints src 220 for three consecutive questions (ids 191-193)."
+      ]
+    },
+    "187": {
+      "src": 220,
+      "flags": [
+        "Source prints src 220 for three consecutive questions (ids 191-193)."
+      ]
+    },
+    "188": {
+      "src": 220,
+      "flags": [
+        "Source prints src 220 for three consecutive questions (ids 191-193).",
+        "Capitalised “kubera” after the full stop in the stem."
+      ]
+    },
+    "189": {
+      "src": 223,
+      "flags": [
+        "Fixed punctuation in the stem (“romoruki.umuyobozi”).",
+        "Stem wording is ambiguous (“kandi ugana ibumoso” may mean you or the trailer heading left); translated grammatically as your own intention. Probably adapted from a UK question about a long vehicle signalling one way and moving the other."
+      ]
+    },
+    "190": {
+      "src": 225,
+      "flags": [
+        "Source prints src 225 before src 224.",
+        "Fixed “byamaboko” -> “by’amaboko” in option D."
+      ]
+    },
+    "191": {
+      "src": 224,
+      "flags": [
+        "Option images checked against p041/p042: A side winds, B no left turn, C one-way road, D no stopping. The question spans pages 41-42.",
+        "Key doubtful: this matches a UK theory question whose expected answer is the side-winds warning sign (option A), because gusts can blow a cyclist into your path. Kept official C."
+      ]
+    },
+    "192": {
+      "src": 227,
+      "flags": [
+        "Fixed source typo in option A: “Amatara yo kubisika na matara” -> “Amatara yo kubisikana n’amatara”.",
+        "Fixed stem punctuation (“neza .Ni”) and ended it with a question mark.",
+        "Stem uses “amatara y’urugendo” loosely to mean the lights to drive with, not main beam.",
+        "Source prints src 227 twice (ids 197-198).",
+        "Key doubtful: for poor daytime visibility the usual answer is dipped headlights (C). The same bank's src 358 (fog, heavy rain or dust: slow down and use dipped headlights) and src 309 (fog: front and rear fog lamps together with dipped headlights) also contradict front fog lamps alone. Kept official B."
+      ]
+    },
+    "193": {
+      "src": 227,
+      "flags": [
+        "Source prints src 227 twice (ids 197-198)."
+      ]
+    },
+    "194": {
+      "src": 228,
+      "flags": [
+        "Source letters the options “(a), a), b), c)”; listed in page order and re-lettered by position (the red option is the first).",
+        "Fixed stray comma in option B: “k,ubisikana” -> “kubisikana”."
+      ]
+    },
+    "195": {
+      "src": 229,
+      "flags": [
+        "Source letters the options “a), (b), b), c)”; listed in page order and re-lettered by position.",
+        "Options B and C mean the same thing (end of the minimum speed). Only the red one (B) is official, so a learner choosing C would be marked wrong. Consider deleting or rewording option C.",
+        "Question spans pages 42-43."
+      ]
+    },
+    "196": {
+      "src": 230,
+      "flags": [
+        "Fixed “yabanyeshuli” -> “y’abanyeshuli” in option D."
+      ]
+    },
+    "197": {
+      "src": 231,
+      "flags": [
+        "Question spans pages 43-44.",
+        "The diagram’s arrow is drawn in the left half of the road, the half the question asks about; it does not change the answer."
+      ]
+    },
+    "198": {
+      "src": 232,
+      "flags": [
+        "Key doubtful: many codes, and the UK question this resembles, allow overtaking on either side in a one-way street (option D). Kept official A."
+      ]
+    },
+    "202": {
+      "src": 236,
+      "flags": [
+        "Stem typos fixed: 'Nikihe' -> 'Ni ikihe', 'cyerekena' -> 'cyerekana'."
+      ]
+    },
+    "204": {
+      "src": 238,
+      "flags": [
+        "Option c typo fixed: 'umwanya moto' -> 'umwanya muto'."
+      ]
+    },
+    "206": {
+      "src": 240,
+      "flags": [
+        "Stem typo fixed: 'gisubanura' -> 'gisobanura'."
+      ]
+    },
+    "207": {
+      "src": 241,
+      "flags": [
+        "Option d typo fixed: 'Ibisubizko' -> 'Ibisubizo'."
+      ]
+    },
+    "208": {
+      "src": 242,
+      "flags": [
+        "Source text was in Title Case; normalised capitalisation. Stem is on p47, sign image and options on p48."
+      ]
+    },
+    "209": {
+      "src": 243,
+      "flags": [
+        "Source text was in Title Case and had 'Wi Byerekezo'; normalised to 'w'ibyerekezo'."
+      ]
+    },
+    "211": {
+      "src": 245,
+      "flags": [
+        "Stem is on p48, sign image and options on p49."
+      ]
+    },
+    "212": {
+      "src": 246,
+      "flags": [
+        "Stem 'icyi cyapa' normalised to 'iki cyapa'."
+      ]
+    },
+    "215": {
+      "src": 249,
+      "flags": [
+        "Stem literally says 'the sign that gives priority'; the official key (inverted triangle) shows it means the sign requiring you to give way. Translated accordingly."
+      ]
+    },
+    "217": {
+      "src": 251,
+      "flags": [
+        "Stem is on p50, sign image and options on p51."
+      ]
+    },
+    "218": {
+      "src": 252,
+      "flags": [
+        "Option d typo fixed: 'ikirekezo' -> 'icyerekezo'; option c spacing 'Nti byemewe' -> 'Ntibyemewe'."
+      ]
+    },
+    "219": {
+      "src": 253,
+      "flags": [
+        "Option a typo fixed: 'kereste' -> 'keretse' (unless)."
+      ]
+    },
+    "220": {
+      "src": 254,
+      "flags": [
+        "Only the first half of option b is printed in red; the black continuation on the same line belongs to option b. 'cg' expanded to 'cyangwa'."
+      ]
+    },
+    "222": {
+      "src": 256,
+      "flags": [
+        "Source option labels were '(a), a., b., c.'; re-lettered by position (red answer is the first option).",
+        "Doubtful key: a broken white line normally MAY be crossed when safe; 'must not be crossed' describes a continuous line. Official answer kept.",
+        "Question continues across p52-p53."
+      ]
+    },
+    "225": {
+      "src": 259,
+      "flags": [
+        "Question continues across p53-p54. Option d 'hari hatangirwa' normalised to 'hari ahatangirwa'."
+      ]
+    },
+    "226": {
+      "src": 260,
+      "flags": [
+        "Option c is printed over three lines in the PDF; merged."
+      ]
+    },
+    "228": {
+      "src": 262,
+      "flags": [
+        "Typo fixed in option b: 'ikinyabizaga' -> 'ikinyabiziga'. Question continues across p54-p55."
+      ]
+    },
+    "231": {
+      "src": 265,
+      "flags": [
+        "Source option labels were '(a), a), b), c)'; re-lettered by position. 'A na b' now refers to the first two positional options as intended."
+      ]
+    },
+    "232": {
+      "src": 266,
+      "flags": [
+        "Stem typos fixed: 'ikinyabizaga' -> 'ikinyabiziga', 'cy'ikoreye' -> 'cyikoreye', 'n'ikihe' -> 'ni ikihe', 'by'afata' -> 'byafata'. Options a-b on p55, c-d on p56."
+      ]
+    },
+    "233": {
+      "src": 267,
+      "flags": [
+        "Source option labels were 'a), (b), b), c)'; re-lettered by position (red answer is the second option).",
+        "Typos fixed: 'ryi ikinyabiziga' -> 'ry'ikinyabiziga', 'Uruhusa' -> 'Uruhushya', 'rwagateganyo' -> 'rw'agateganyo'.",
+        "Ambiguous: police can also ask for the vehicle registration certificate (option a); official answer kept."
+      ]
+    },
+    "234": {
+      "src": 268,
+      "flags": [
+        "Key may be doubtful: the question appears adapted from the UK theory test, where the answer is 45 m; the Rwandan key says 25 m. Official answer kept."
+      ]
+    },
+    "235": {
+      "src": 269,
+      "flags": [
+        "Stem on p56, photo and options on p57.",
+        "Possible doubt: many traffic codes treat a person pushing a two-wheeler on foot as a pedestrian; official answer (driver) kept."
+      ]
+    },
+    "236": {
+      "src": 270,
+      "flags": [
+        "Source option labels were '(a), a), b), c)'; re-lettered by position (red answer is the first option)."
+      ]
+    },
+    "237": {
+      "src": 271,
+      "flags": [
+        "Stem on p57, sign image and options on p58.",
+        "Ambiguous: a priority road also gives priority at the intersections ahead (option b), so 'a and b' (option d) could be argued; official answer a kept.",
+        "Option b English made more literal ('mu yandi masangano' = 'at the other intersections')."
+      ]
+    },
+    "238": {
+      "src": 272,
+      "flags": [
+        "Typos fixed in options: 'kabanyamaguru' -> 'k'abanyamaguru', 'abanayamaguru' -> 'abanyamaguru'."
+      ]
+    },
+    "239": {
+      "src": 273,
+      "flags": [
+        "Stem typo fixed: 'bemenyesha' -> 'bimenyesha'. Stem on p58, image and options on p59."
+      ]
+    },
+    "241": {
+      "src": 275,
+      "flags": [
+        "Typo fixed in option b: 'abanayamaguru' -> 'abanyamaguru'. Stem and image on p59, options on p60."
+      ]
+    },
+    "242": {
+      "src": 276,
+      "flags": [
+        "Stem typo fixed: 'bibinyabiziga' -> 'b'ibinyabiziga'."
+      ]
+    },
+    "246": {
+      "src": 280,
+      "flags": [
+        "Stem and image (three labelled signs) on p61, options on p62."
+      ]
+    },
+    "249": {
+      "src": 283,
+      "flags": [
+        "Stem typo fixed: 'cy'inyemerera' -> 'kinyemerera'; option labels 'A22 a' -> 'A22a', 'A 20' -> 'A20'.",
+        "Ambiguous: A22a (thick vertical bar crossed by a thin one) normally also gives priority at the next junction; official answer B3 kept."
+      ]
+    },
+    "252": {
+      "src": 286,
+      "flags": [
+        "Audit: sign description corrected from 'umuhanda uzamutse'/'speed bump' to 'road hump', consistent with the visibility reason for the overtaking ban."
+      ]
+    },
+    "254": {
+      "src": 288,
+      "flags": [
+        "Option C printed 'ku menyesha'; spacing fixed to 'kumenyesha'."
+      ]
+    },
+    "255": {
+      "src": 289,
+      "flags": [
+        "Compare src 323 (id 294): for a similar question the official key there is 'keep the speed you had'."
+      ]
+    },
+    "257": {
+      "src": 291,
+      "flags": [
+        "Option A (checking that nobody behind is about to overtake you) is also a real precaution, but B is the official and most complete answer."
+      ]
+    },
+    "260": {
+      "src": 294,
+      "flags": [
+        "Source lettering is 'a, (c), c, d': the red option is the second one on the page; options kept in page order."
+      ]
+    },
+    "262": {
+      "src": 296,
+      "flags": [
+        "Doubtful key: phone use while driving is banned at any speed, so B ('while driving at 20 km/h') also looks correct. Official key D kept."
+      ]
+    },
+    "263": {
+      "src": 297,
+      "flags": [
+        "The stem says 'only', although overtaking is also prohibited in other places (bends, hilltops, crossings); B is still the best of the options."
+      ]
+    },
+    "265": {
+      "src": 299,
+      "flags": [
+        "Source lettering is '(a), a, b, c': options kept in page order, red option is the first.",
+        "Option B printed 'ikinyabizigaagomba'; spacing fixed."
+      ]
+    },
+    "266": {
+      "src": 300,
+      "flags": [
+        "Stem ended with 'ntugomba' ('you must not'), which contradicts the official answer and the options; that word was removed.",
+        "Source lettering is 'a, (b), b, c': options kept in page order, red option is the second."
+      ]
+    },
+    "271": {
+      "src": 305,
+      "flags": [
+        "The picture shows no clear priority sign or marking (only a post beside the motorcyclist whose sign is not visible); the key holds only if the driver is on the priority road. Under the default priority-to-the-right rule the motorcyclist coming from the right would have priority."
+      ]
+    },
+    "275": {
+      "src": 309,
+      "flags": [
+        "Only the first part of option A ('Amatara kamena bihu y’imbere n’ay’inyuma') is printed in red, which on its own equals option B; the label '(a)' is in parentheses, so A is taken as the official answer."
+      ]
+    },
+    "278": {
+      "src": 312,
+      "flags": [
+        "Only the first part of option B is printed in red; the key is unaffected."
+      ]
+    },
+    "288": {
+      "src": 322,
+      "flags": [
+        "Options A-C are conditions ('when the oncoming vehicle...') that do not answer the stem; they seem to belong to a different question. Kept as printed."
+      ]
+    },
+    "289": {
+      "src": 323,
+      "flags": [
+        "Doubtful key: the usual rule is not to speed up and to keep to the right, so B ('move to the right') is also defensible; src 289 (id 260) gives 'reduce speed' for a similar question. Official key A kept."
+      ]
+    },
+    "294": {
+      "src": 328,
+      "flags": [
+        "Options B-D are noun phrases ('emergency vehicle', 'had an accident', 'excessive speed') that do not answer the stem; they seem to belong to a different question. Kept as printed."
+      ]
+    },
+    "296": {
+      "src": 330,
+      "flags": [
+        "Option A text in the source ('kuguma yicyo kinyabiziga hagati mu muhanda') seems garbled; kept as printed."
+      ]
+    },
+    "299": {
+      "src": 333,
+      "flags": [
+        "Option A printed 'Ku mushyira kunkengero'; spacing fixed."
+      ]
+    },
+    "302": {
+      "src": 336,
+      "flags": [
+        "Fixed source typos 'ikinyabizaga' -> 'ikinyabiziga', 'nuruhe' -> 'ni uruhe', 'atawaye' -> 'atwaye', 'cy;umuhanda' -> 'cy’umuhanda'."
+      ]
+    },
+    "303": {
+      "src": 337,
+      "flags": [
+        "Page break between options a and b (p79 -> p80); options joined correctly."
+      ]
+    },
+    "304": {
+      "src": 338,
+      "flags": [
+        "Fixed source typo 'bazunguruka' -> 'bazenguruka' in option a."
+      ]
+    },
+    "305": {
+      "src": 339,
+      "flags": [
+        "Option b: 'ni kimenyetso' read as 'n’ikimenyetso'."
+      ]
+    },
+    "306": {
+      "src": 340,
+      "flags": [
+        "Stem image (p080_0) is on p80 with the stem; options c and d continue on p81.",
+        "Option c source spelling 'Muruhande urwarirwo' spaced as 'Mu ruhande urwarirwo rwose'."
+      ]
+    },
+    "307": {
+      "src": 341,
+      "flags": [
+        "Fixed source typos: 'y’injira munzira' -> 'yinjira mu nzira', option c 'ni intera' -> 'n’intera', option d 'bimututse' -> 'bimuturutse'."
+      ]
+    },
+    "308": {
+      "src": 342,
+      "flags": [
+        "Fixed source typos 'ikinyabaziga' -> 'ikinyabiziga'; 'a na b' capitalised as 'A na B'."
+      ]
+    },
+    "310": {
+      "src": 344,
+      "flags": [
+        "Key doubtful: the registration certificate normally also records the number of seats, so option a (or 'all correct') is arguable. Kept official c (insurance)."
+      ]
+    },
+    "312": {
+      "src": 346,
+      "flags": [
+        "Fixed source typo 'ikinyabizaga' -> 'ikinyabiziga'. Page break between options b and c (p81 -> p82)."
+      ]
+    },
+    "313": {
+      "src": 347,
+      "flags": [
+        "Fixed source typos 'yabanyamaguru' -> 'y’abanyamaguru', 'ugatagereza' -> 'ugategereza'."
+      ]
+    },
+    "314": {
+      "src": 348,
+      "flags": [
+        "Option b source spelling 'kubyerengagiza wizeyeko' normalised to 'kubyirengagiza wizeye ko'."
+      ]
+    },
+    "315": {
+      "src": 349,
+      "flags": [
+        "Fixed source typos 'gutwara banyeshuli' -> 'gutwara abanyeshuli', 'kugirango' -> 'kugira ngo', option c 'budasnzwe' -> 'budasanzwe'."
+      ]
+    },
+    "318": {
+      "src": 352,
+      "flags": [
+        "Stem spacing fixed ('bibiri .ikinyabiziga'); 'nta kibazo kunyuranaho' read as 'nta kibazo cyo kunyuranaho'."
+      ]
+    },
+    "319": {
+      "src": 353,
+      "flags": [
+        "Stem spacing fixed ('mo ,kabiri'). Option a source typo 'guhagara' -> 'guhagarara'; option c 'binyabiziga' -> 'ibinyabiziga'.",
+        "Option c 'guha ubushobozi ibinyabiziga' is unclear in the source (literally 'giving vehicles capacity'); translated loosely."
+      ]
+    },
+    "320": {
+      "src": 354,
+      "flags": [
+        "Option d source 'ntagisubizo' spaced as 'Nta gisubizo'."
+      ]
+    },
+    "321": {
+      "src": 355,
+      "flags": [
+        "Fixed source 'bi binyabiziga' -> 'b’ibinyabiziga' in option c; 'mw’ikoni' written 'mu ikoni'."
+      ]
+    },
+    "323": {
+      "src": 357,
+      "flags": [
+        "Option a 'kugirango' written 'kugira ngo'."
+      ]
+    },
+    "324": {
+      "src": 358,
+      "flags": [
+        "Fixed source typos 'zu muhanda' -> 'z’umuhanda' (option a) and 'ibimenyestso' -> 'ibimenyetso' (option d)."
+      ]
+    },
+    "325": {
+      "src": 359,
+      "flags": [
+        "Stem says 'Muri ibi byapa' (among these signs) but no pictures are printed; the options only describe shapes.",
+        "Option b source 'mu n’uzenguruko' read as 'n’umuzenguruko'.",
+        "Key doubtful: strictly, mandatory signs (ibyapa bitegeka) are blue discs; red-bordered circles are prohibitory. Kept official c as the only circular option."
+      ]
+    },
+    "326": {
+      "src": 360,
+      "flags": [
+        "Stem is on p85; the officer image (p086_0) and options are on p86; image correctly assigned to this stem.",
+        "Answer printed in red as '(c)'; no green highlight.",
+        "Fixed source typos: 'ubifiye' -> 'ubifitiye', 'kimenyesto' -> 'kimenyetso', option c 'umwanya moto' -> 'umwanya muto' (stop line)."
+      ]
+    },
+    "327": {
+      "src": 361,
+      "flags": [
+        "Answer printed in red as '(c)m150'; spacing fixed to 'm 150'."
+      ]
+    },
+    "328": {
+      "src": 362,
+      "flags": [
+        "Answer printed in red as '(d)'; no green highlight. Option c spacing 'mukindi' -> 'mu kindi'."
+      ]
+    },
+    "329": {
+      "src": 363,
+      "flags": [
+        "Answer printed in red as '(b)'; no green highlight. 'kumirongo' and 'kugirango' spaced."
+      ]
+    },
+    "330": {
+      "src": 364,
+      "flags": [
+        "Exact duplicate of src 378 (id 349).",
+        "Question spans p86-p87; options b-d on p87.",
+        "Source writes 'mw’ibara'; written 'mu ibara'."
+      ]
+    },
+    "331": {
+      "src": 365,
+      "flags": [
+        "Option c printed '(c.) Ibinyabiziga birenze bibiri'; stray ')' removed.",
+        "Key doubtful: many traffic codes allow a motor vehicle to tow only one vehicle (option a); the exact limit could not be verified. Kept official c."
+      ]
+    },
+    "332": {
+      "src": 366,
+      "flags": [
+        "Answer printed in red as '(d)'; no green highlight."
+      ]
+    },
+    "333": {
+      "src": 367,
+      "flags": [
+        "Answer printed in red as '(b.)'; stray ')' removed. Option d continues on p88 ('cyukuri' -> 'cy’ukuri')."
+      ]
+    },
+    "334": {
+      "src": 368,
+      "flags": [
+        "Answer printed in red as '(c.)'; stray ')' removed."
+      ]
+    },
+    "335": {
+      "src": 369,
+      "flags": [
+        "Answer printed in red as '(c)'; no green highlight."
+      ]
+    },
+    "336": {
+      "src": 370,
+      "flags": [
+        "Stem image is a grey line-art icon: the triangle border appears dark grey, not red as on the real sign.",
+        "Answer printed in red as '(c.)'; stray ')' removed; comma spacing fixed."
+      ]
+    },
+    "337": {
+      "src": 371,
+      "flags": [
+        "Answer printed in red as '(b)'; no green highlight."
+      ]
+    },
+    "338": {
+      "src": 372,
+      "flags": [
+        "Answer printed in red as '(a.)'; stray ')' removed; 'i ruhande' written 'iruhande'. The colon after the stem is also red but is not an option.",
+        "Question spans p89-p90; option d is on p90."
+      ]
+    },
+    "339": {
+      "src": 373,
+      "flags": [
+        "Answer printed in red as '(d)'; no green highlight.",
+        "Option a ('road narrows') could be read as a generic description of this sign; the key treats it as the both-sides sign.",
+        "Option b source spacing 'i bumoso' written 'ibumoso'."
+      ]
+    },
+    "340": {
+      "src": 374,
+      "flags": [
+        "Stem 'Icyi' written 'Iki'. Answer printed in red as '(a)'. Options c-d on p91."
+      ]
+    },
+    "341": {
+      "src": 375,
+      "flags": [
+        "Stem 'Icyi' written 'Iki'. Answer printed in red as '(d.)'; stray ')' removed."
+      ]
+    },
+    "342": {
+      "src": 376,
+      "flags": [
+        "Answer printed in red as '(a.)'; stray ')' removed. Options b-d on p92."
+      ]
+    },
+    "343": {
+      "src": 377,
+      "flags": [
+        "Answer printed in red as '(c)'; no green highlight."
+      ]
+    },
+    "344": {
+      "src": 379,
+      "flags": [
+        "Answer printed in red as '(d.)'; stray ')' removed.",
+        "Key doubtful: a 'mandatory path' (inzira itegetswe) sign would normally be a blue disc with a white symbol (closest to option c); the official answer describes the livestock warning triangle. Kept official d."
+      ]
+    },
+    "345": {
+      "src": 380,
+      "flags": [
+        "Answer printed in red as '(c)'. Option d source typo 'ntagisubizi' -> 'Nta gisubizo'."
+      ]
+    },
+    "346": {
+      "src": 381,
+      "flags": [
+        "Option a printed '(a).ishusho'; stray '.' removed. The question number 381 is also printed in red."
+      ]
+    },
+    "347": {
+      "src": 382,
+      "flags": [
+        "Answer printed in red as '(d)'. Option a 'Mumasangano' spaced as 'Mu masangano'."
+      ]
+    },
+    "348": {
+      "src": 383,
+      "flags": [
+        "Answer printed in red as '(a.)'; stray ')' removed."
+      ]
+    },
+    "349": {
+      "src": 384,
+      "flags": [
+        "Answer printed in red as '(b)'. Question spans p93-p94; options c-d on p94. Stem ended with '.', changed to ':'."
+      ]
+    },
+    "350": {
+      "src": 385,
+      "flags": [
+        "Answer printed in red as '(b.)'; stray ')' removed. Stem quote marks normalised ('kivuga’’ugukikira”bitegetswe')."
+      ]
+    },
+    "351": {
+      "src": 386,
+      "flags": [
+        "Answer printed in red as '(c.)'; stray ')' removed. Part of the stem ('gitegetswe”kigizwe') is also printed in red; it is not an option.",
+        "Ambiguous: the stem asks for the colour of the symbol, which is white (option a); the official answer c describes the whole sign (blue with a white symbol). Kept official c."
+      ]
+    },
+    "352": {
+      "src": 387,
+      "flags": [
+        "Fixed spacing typos in options a (\"ba muturutse\") and c (\"kubakoresha\")."
+      ]
+    },
+    "354": {
+      "src": 390,
+      "flags": [
+        "All four options are printed in red in the PDF, so the key could not be read from the source; answer set to a (\"yes\") because the stem already says the overtaking is on the left. Option c (\"yes, done on the left\") means practically the same.",
+        "Removed a stray trailing comma from option a."
+      ]
+    },
+    "355": {
+      "src": 391,
+      "flags": [
+        "Fixed spacing artefact \"y atoni\" -> \"ya toni\" in option b."
+      ]
+    },
+    "358": {
+      "src": 394,
+      "flags": [
+        "Options b (\"do not exceed 30 km/h\") and c (\"forbidden to drive above 30 km/h\") mean the same thing; the official key is c."
+      ]
+    },
+    "359": {
+      "src": 395,
+      "flags": [
+        "Source letters the options a), (a), c), d); the red answer is the second option (b by position)."
+      ]
+    },
+    "360": {
+      "src": 396,
+      "flags": [
+        "Stem is only \"Ngomba :\"; the picture (give-way sign with \"STOP 100 m\") carries the question.",
+        "Options b and c say \"ntaragera kuri iki cyapa\" (literally \"before reaching this sign\"), but the STOP announced is 100 m beyond the sign; the English of both b and c renders the intended meaning (100 m ahead of the sign)."
+      ]
+    },
+    "362": {
+      "src": 398,
+      "flags": [
+        "Official answer c reads \"yego, bitewe n’aho ngana\" (literally \"yes, depending on where I am going\"); it appears to be a mistranslation of \"yes, whichever direction I take\", which is what the other options and the rule imply. English renders that meaning; Kinyarwanda kept as printed."
+      ]
+    },
+    "364": {
+      "src": 400,
+      "flags": [
+        "The photo shows a two-lane carriageway with the car ahead already in the left lane, so the scene does not clearly match the stem; the stem is third person in Kinyarwanda but the options are first person, so it is read as 'I am preparing to overtake'. The previous explanation described a broken centre line and oncoming traffic, which the photo does not show; it now states the general rule behind the official answer."
+      ]
+    },
+    "368": {
+      "src": 404,
+      "flags": [
+        "Stem is printed in red in the PDF (formatting only); only option c is red and was used as the key."
+      ]
+    },
+    "369": {
+      "src": 405,
+      "flags": [
+        "Image p103_2 (ahead-only sign) was attached to this question by extraction; it belongs to the next question (id 376) and was moved there."
+      ]
+    },
+    "370": {
+      "src": 406,
+      "flags": [
+        "Stem image p103_2 was missing (extraction attached it to id 375); assigned here. Stem is on p103, options on p104.",
+        "Fixed spacing artefact \"y’ icyerekezo\" in option d."
+      ]
+    },
+    "374": {
+      "src": 8,
+      "flags": [
+        "The PDF prints number 8 for this question (between 409 and 410); src kept as printed."
+      ]
+    },
+    "378": {
+      "src": 413,
+      "flags": [
+        "Stem is printed in red in the PDF (formatting only); only option c is red and was used as the key."
+      ]
+    },
+    "385": {
+      "src": 420,
+      "flags": [
+        "Fixed spacing artefact \"cy’ imyidagaduro\" in option d."
+      ]
+    },
+    "386": {
+      "src": 421,
+      "flags": [
+        "Stem is on p108, sign image and options on p109."
+      ]
+    },
+    "388": {
+      "src": 423,
+      "flags": [
+        "Stem and options a-c on p109, option d on p110."
+      ]
+    },
+    "391": {
+      "src": 426,
+      "flags": [
+        "Stem on p110, sign image and options on p111."
+      ]
+    },
+    "393": {
+      "src": 428,
+      "flags": [
+        "Stem and options a-b on p111, options c-d on p112."
+      ]
+    },
+    "394": {
+      "src": 429,
+      "flags": [
+        "Fixed spacing artefacts in options a and b (\"ry’ umuhanda\", \"w’ ikindi\") and the duplicated word \"mu mu\" in option b."
+      ]
+    },
+    "396": {
+      "src": 431,
+      "flags": [
+        "Stem and image on p112, options on p113."
+      ]
+    }
+  }
+}
